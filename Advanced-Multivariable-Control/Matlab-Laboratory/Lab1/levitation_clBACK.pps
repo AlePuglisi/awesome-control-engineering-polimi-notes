@@ -1,0 +1,12 @@
+%% PPLANE file %%
+
+H.name = 'newBack.pps';
+H.xvar = 'x1';
+H.yvar = 'x2';
+H.xder = 'x2';
+H.yder = '-(k+1)*x1-k*x2-x2';
+H.pname = {'g','','k','','',''};
+H.pval = {'9.8','','2','','',''};
+H.fieldtype = 'arrows';
+H.npts = 20;
+H.wind = [-1  1 -1  1];

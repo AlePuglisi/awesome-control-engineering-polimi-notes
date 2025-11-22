@@ -1,0 +1,12 @@
+%% PPLANE file %%
+
+H.name = 'levitation_ol.pps';
+H.xvar = 'x1';
+H.yvar = 'x2';
+H.xder = 'x2';
+H.yder = 'g - x2 - (8*g + u) / (2 * (2+x1)^2)';
+H.pname = {'g','','u','','',''};
+H.pval = {'9.8','','0','','',''};
+H.fieldtype = 'arrows';
+H.npts = 20;
+H.wind = [-1  1 -1  1];
