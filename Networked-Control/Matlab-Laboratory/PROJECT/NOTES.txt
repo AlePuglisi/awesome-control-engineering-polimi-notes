@@ -1,0 +1,2 @@
+- Perchè il controllore centrallizato 'rallenta' il sistema rispetto agli altri schemi di controllo? è dovuto ad un controllo complessivo di tutto il sistema che influenza negativamente le azioni di controllo
+- Ha senso implementre un H2 anche in assenza di disturbi e senza un effetivo peso differente delle azioni di controllo in termini di costo 
