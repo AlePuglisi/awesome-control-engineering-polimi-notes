@@ -1,0 +1,16 @@
+describe beam sensor model
+consider scan sensor model, what are the differences/advantages wrt the other model
+how are these models used in monte carlo localization? first provide a description for monte carlo localization
+
+list all the sensors and actuators the robot in the picture most likely has installed and what are their uses
+provide direct and inverse knematics formula + pictures
+can you use vfh for this robot? why?
+can you use dwa? why?
+
+provide the derivation of recursive bayes filter for online slam
+how can this formula be used in ekf-slam?
+
+differences between ros 2.0 and 1.0
+what is ros and how can it be used to control robots?
+
+provide a description of rrt and simulate it in the map in the picture

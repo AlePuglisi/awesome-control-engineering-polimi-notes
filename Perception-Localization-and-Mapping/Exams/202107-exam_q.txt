@@ -1,0 +1,19 @@
+Proprioceptive and exteroceptives sensors. Examples. [2]
+Active and passive sensors. Examples [2]
+Rotary incremental encoder and quadrature technique [2]
+
+Derive the TukTuk's kinematics [2]
+Integrals of the kinematics with Euler [1]
+What can we do to have better results with Euler [2]
+
+How can we compute the inverse kinematics of the TukTuk [2]
+What global planner would you use for the TukTuk. Why. [2]
+What local planner would you use for the TukTuk. Why. [2]
+What is c-space. How it can be used w.r.t. the previous questions. [2]
+
+Difference between full and online slam [1]
+Can EKF be used for full SLAM? Why/how? [2]
+Scan matching. Difference with SLAM. [2]
+
+Difference between topics and services [1.5]
+Message filters [1.5]
